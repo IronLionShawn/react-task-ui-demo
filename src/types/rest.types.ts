@@ -1,0 +1,1 @@
+export const HTTP_AUTH_ERRORS = [401,409];
